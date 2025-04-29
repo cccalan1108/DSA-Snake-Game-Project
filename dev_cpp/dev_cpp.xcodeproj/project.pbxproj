@@ -1,0 +1,168 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E7AFBE482A2BA1360078E07D /* sfml-audio-d-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-audio-d-2.dll"; sourceTree = "<group>"; };
+		E7AFBE492A2BA1360078E07D /* sfml-window-d-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-window-d-2.dll"; sourceTree = "<group>"; };
+		E7AFBE4A2A2BA1360078E07D /* sfml-network-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-network-2.dll"; sourceTree = "<group>"; };
+		E7AFBE4B2A2BA1360078E07D /* sfml-system-d-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-system-d-2.dll"; sourceTree = "<group>"; };
+		E7AFBE4C2A2BA1360078E07D /* sfml-system-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-system-2.dll"; sourceTree = "<group>"; };
+		E7AFBE4D2A2BA1360078E07D /* sfml-window-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-window-2.dll"; sourceTree = "<group>"; };
+		E7AFBE4E2A2BA1360078E07D /* openal32.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = openal32.dll; sourceTree = "<group>"; };
+		E7AFBE4F2A2BA1360078E07D /* sfml-network-d-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-network-d-2.dll"; sourceTree = "<group>"; };
+		E7AFBE502A2BA1360078E07D /* arial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = arial.ttf; sourceTree = "<group>"; };
+		E7AFBE512A2BA1360078E07D /* SFML-2.4.2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "SFML-2.4.2"; sourceTree = "<group>"; };
+		E7AFBE522A2BA1360078E07D /* DSAP_Final.layout */ = {isa = PBXFileReference; lastKnownFileType = text; path = DSAP_Final.layout; sourceTree = "<group>"; };
+		E7AFBE532A2BA1360078E07D /* DSAP_Final.dev */ = {isa = PBXFileReference; lastKnownFileType = text; path = DSAP_Final.dev; sourceTree = "<group>"; };
+		E7AFBE542A2BA1360078E07D /* sfml-graphics-d-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-graphics-d-2.dll"; sourceTree = "<group>"; };
+		E7AFBE552A2BA1360078E07D /* sfml-graphics-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-graphics-2.dll"; sourceTree = "<group>"; };
+		E7AFBE562A2BA1360078E07D /* sfml-audio-2.dll */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sfml-audio-2.dll"; sourceTree = "<group>"; };
+		E7AFBE572A2BA1360078E07D /* Makefile.win */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.win; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E7AFBE422A2BA1360078E07D = {
+			isa = PBXGroup;
+			children = (
+				E7AFBE482A2BA1360078E07D /* sfml-audio-d-2.dll */,
+				E7AFBE492A2BA1360078E07D /* sfml-window-d-2.dll */,
+				E7AFBE4A2A2BA1360078E07D /* sfml-network-2.dll */,
+				E7AFBE4B2A2BA1360078E07D /* sfml-system-d-2.dll */,
+				E7AFBE4C2A2BA1360078E07D /* sfml-system-2.dll */,
+				E7AFBE4D2A2BA1360078E07D /* sfml-window-2.dll */,
+				E7AFBE4E2A2BA1360078E07D /* openal32.dll */,
+				E7AFBE4F2A2BA1360078E07D /* sfml-network-d-2.dll */,
+				E7AFBE502A2BA1360078E07D /* arial.ttf */,
+				E7AFBE512A2BA1360078E07D /* SFML-2.4.2 */,
+				E7AFBE522A2BA1360078E07D /* DSAP_Final.layout */,
+				E7AFBE532A2BA1360078E07D /* DSAP_Final.dev */,
+				E7AFBE542A2BA1360078E07D /* sfml-graphics-d-2.dll */,
+				E7AFBE552A2BA1360078E07D /* sfml-graphics-2.dll */,
+				E7AFBE562A2BA1360078E07D /* sfml-audio-2.dll */,
+				E7AFBE572A2BA1360078E07D /* Makefile.win */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		E7AFBE472A2BA1360078E07D /* dev_cpp */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = E7AFBE582A2BA1360078E07D /* Build configuration list for PBXLegacyTarget "dev_cpp" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/alan/Downloads/DSAP-Snake 2/dev_cpp";
+			dependencies = (
+			);
+			name = dev_cpp;
+			passBuildSettingsInEnvironment = 1;
+			productName = dev_cpp;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		E7AFBE432A2BA1360078E07D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+			};
+			buildConfigurationList = E7AFBE462A2BA1360078E07D /* Build configuration list for PBXProject "dev_cpp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E7AFBE422A2BA1360078E07D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E7AFBE472A2BA1360078E07D /* dev_cpp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E7AFBE442A2BA1360078E07D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		E7AFBE452A2BA1360078E07D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		E7AFBE592A2BA1360078E07D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = dev_cpp;
+			};
+			name = Debug;
+		};
+		E7AFBE5A2A2BA1360078E07D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = dev_cpp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E7AFBE462A2BA1360078E07D /* Build configuration list for PBXProject "dev_cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7AFBE442A2BA1360078E07D /* Debug */,
+				E7AFBE452A2BA1360078E07D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E7AFBE582A2BA1360078E07D /* Build configuration list for PBXLegacyTarget "dev_cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7AFBE592A2BA1360078E07D /* Debug */,
+				E7AFBE5A2A2BA1360078E07D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E7AFBE432A2BA1360078E07D /* Project object */;
+}
